@@ -1,5 +1,8 @@
-FROM windows
-FROM ubuntu
+
+
+FROM Windows
+
+
 MAINTAINER Rizwan
 
 file 102 changes
@@ -11,3 +14,4 @@ file 101 changes
 ABCD
 EFGH
 
+ssddsf
