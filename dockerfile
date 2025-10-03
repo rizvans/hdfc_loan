@@ -1,4 +1,4 @@
-FROM win
+
 FROM ubuntu
 MAINTAINER Rizwan
 
