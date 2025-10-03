@@ -1,5 +1,5 @@
 
-FROM ubuntu
+FROM linux
 MAINTAINER Rizwan
 
 file 102 changes
