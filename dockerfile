@@ -1,5 +1,5 @@
 
-FROM linux
+FROM Amazon
 MAINTAINER Rizwan
 
 file 102 changes
